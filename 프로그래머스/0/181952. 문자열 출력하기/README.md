@@ -1,10 +1,10 @@
 # [level 0] 문자열 출력하기 - 181952 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181952) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181952?language=swift) 
 
 ### 성능 요약
 
-메모리: 67.8 MB, 시간: 150.58 ms
+메모리: 12.5 MB, 시간: 5.35 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 09월 02일 21:07:29
+2024년 10월 14일 23:09:55
 
 ### 문제 설명
 
